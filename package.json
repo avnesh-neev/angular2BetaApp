@@ -2,8 +2,8 @@
   "name": "angular2",
   "version": "0.0.1",
   "description": "This is angular2 Application",
-  "homepage": "",
-  "repository": "",
+  "homepage": "https://github.com/avnesh-neev/angular2BetaApp",
+  "repository": "https://github.com/avnesh-neev/angular2BetaApp.git",
   "license": "MIT",
   "private": false,
   "engines": {
