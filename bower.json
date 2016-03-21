@@ -1,13 +1,13 @@
 {
   "name": "AngularJs 2.0 Application",
-  "description": "This is ETL Application",
+  "description": "This is AngularJs 2.0 Application",
   "main": "index.html",
   "authors": [
     "Avnesh Shakya"
   ],
   "license": "MIT",
   "keywords": [
-    "ETL"
+    "AngularJs"
   ],
   "moduleType": [],
   "homepage": "",
